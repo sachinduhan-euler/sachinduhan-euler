@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sachin duhan</h1>
 <h3 align="center">Member of Technical Staff - 1</h3>
 
-- 🔭 I’m currently working at [Euler motors -](Euler Autonomous Group)
+- 🔭 I’m currently working at Euler Autonomous Group
 
 - 👨‍💻 All of my projects are available at [sachin-duhan26.github.io](sachin-duhan26.github.io)
 
